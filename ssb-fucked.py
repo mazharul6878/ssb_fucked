@@ -16,11 +16,11 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import mazharul
+    import Sarfraz
 
     
 
 elif bit == '32bit':
 
-    import mazharul32
+    import Sarfraz32
 
